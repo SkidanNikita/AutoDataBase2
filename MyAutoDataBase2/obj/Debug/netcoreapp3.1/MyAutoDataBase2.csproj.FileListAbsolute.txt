@@ -1,0 +1,4 @@
+C:\Users\1\source\repos\MyAutoDataBase2\MyAutoDataBase2\bin\Debug\netcoreapp3.1\MyAutoDataBase2.exe
+C:\Users\1\source\repos\MyAutoDataBase2\MyAutoDataBase2\obj\Debug\netcoreapp3.1\MyAutoDataBase2.csprojAssemblyReference.cache
+C:\Users\1\source\repos\MyAutoDataBase2\MyAutoDataBase2\obj\Debug\netcoreapp3.1\MyAutoDataBase2.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\MyAutoDataBase2\MyAutoDataBase2\obj\Debug\netcoreapp3.1\MyAutoDataBase2.AssemblyInfo.cs
